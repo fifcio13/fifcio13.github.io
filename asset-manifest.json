@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1f81f22.chunk.css",
-    "main.js": "/static/js/main.dd8488ea.chunk.js",
-    "main.js.map": "/static/js/main.dd8488ea.chunk.js.map",
+    "main.css": "/static/css/main.43c69621.chunk.css",
+    "main.js": "/static/js/main.409b9954.chunk.js",
+    "main.js.map": "/static/js/main.409b9954.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3b0c188f.js",
     "runtime-main.js.map": "/static/js/runtime-main.3b0c188f.js.map",
     "static/css/2.9522b9fe.chunk.css": "/static/css/2.9522b9fe.chunk.css",
     "static/js/2.8254e111.chunk.js": "/static/js/2.8254e111.chunk.js",
     "static/js/2.8254e111.chunk.js.map": "/static/js/2.8254e111.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.78dbd46239e76a3d24ec022ef5d26f29.js": "/precache-manifest.78dbd46239e76a3d24ec022ef5d26f29.js",
+    "precache-manifest.0cc69f336517e2a761920044d5684611.js": "/precache-manifest.0cc69f336517e2a761920044d5684611.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9522b9fe.chunk.css.map": "/static/css/2.9522b9fe.chunk.css.map",
-    "static/css/main.b1f81f22.chunk.css.map": "/static/css/main.b1f81f22.chunk.css.map",
+    "static/css/main.43c69621.chunk.css.map": "/static/css/main.43c69621.chunk.css.map",
     "static/js/2.8254e111.chunk.js.LICENSE.txt": "/static/js/2.8254e111.chunk.js.LICENSE.txt",
     "static/media/azon-thumb.png": "/static/media/azon-thumb.761d47d4.png",
     "static/media/azon-thumb.webp": "/static/media/azon-thumb.d8c3a001.webp",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.3b0c188f.js",
     "static/css/2.9522b9fe.chunk.css",
     "static/js/2.8254e111.chunk.js",
-    "static/css/main.b1f81f22.chunk.css",
-    "static/js/main.dd8488ea.chunk.js"
+    "static/css/main.43c69621.chunk.css",
+    "static/js/main.409b9954.chunk.js"
   ]
 }
